@@ -1,1 +1,1 @@
-worker: python railway-run-playwright.py
+worker: python main.py
